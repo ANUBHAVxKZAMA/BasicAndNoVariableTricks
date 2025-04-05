@@ -1,5 +1,5 @@
 import java.util.*;
-	class swapWithoutThirdVariable {
+	class SwapWithoutThirdVariable {
 		public static void main(String[] args) {
 		        Scanner sc=new Scanner(System.in);
 		        System.out.println("ENTER 1ST NUMBER:");
