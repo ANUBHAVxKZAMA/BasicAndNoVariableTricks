@@ -1,5 +1,5 @@
 import java.util.*;
-	class addWithoutThirdVariable {
+	class AddWithoutThirdVariable {
 		public static void main(String[] args) {
 		        Scanner sc=new Scanner(System.in);
 		        System.out.println("ENTER 1ST NUMBER:");
