@@ -1,38 +1,34 @@
 # Core Java Programs
 
-Welcome to the **Core Java Programs** repo by [KZAMA](https://github.com/ANUBHAVxKZAMA) — a curated collection of beginner-friendly Java logic-building questions, written clean, minimal, and with no fluff.
+Welcome to the **Core Java Programs** repo by [KZAMA](https://github.com/ANUBHAVxKZAMA) — beginner-friendly Java programs focused on logic-building, all written without shortcuts.
 
 ## What's Inside?
 
-This repo covers basic operations, focusing on logic rather than relying on shortcuts. Perfect for beginners trying to get a grip on how Java works under the hood.
+This repo includes basic logic questions like swapping numbers, reversing digits, and more — all solved without using extra variables. Great for anyone practicing pure logic.
 
-### Programs List
+### Programs in this repo:
 
-- **swapWithoutThirdVariable.java**  
-  Swap two numbers without using a third variable.
+- `swapWithoutThirdVariable.java`
+- `addWithoutThirdVariable.java`
+- `reverseNumber.java`
+- `sumOfDigits.java`
+- `countDigits.java`
 
-- **addWithoutThirdVariable.java**  
-  Add two numbers without using any extra variable (just math).
+## How to Run (Phone-Friendly Guide)
 
-- **reverseNumber.java**  
-  Reverse a given number using a loop.
+If you're on phone:
 
-- **sumOfDigits.java**  
-  Calculate the sum of digits of a number.
+1. **Download the `.java` file you want to run**
+2. Use any **Java compiler app** (like "Jvdroid" or "Dcoder") from the Play Store
+3. Open the app, paste the code, and tap **Run**
+4. Done — you'll see the output right below
 
-- **countDigits.java**  
-  Count how many digits are there in a number.
+If you're on PC (for future use):
 
-## How to Run
+1. Install JDK (Java Development Kit)
+2. Open terminal or command prompt
+3. Use these commands:
 
-1. **Download or clone the repository:**
-   - Click the green “Code” button on top
-   - Choose “Download ZIP”
-   - Extract the ZIP file on your system
-
-2. **Open terminal in that folder**  
-   (or Command Prompt if you're on Windows)
-
-3. **Compile the Java file:**
-   ```bash
-   javac FileName.java
+```bash
+javac FileName.java     // to compile
+java FileName           // to run
