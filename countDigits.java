@@ -1,5 +1,5 @@
 import java.util.*;
-	class countDigits {
+	class CountDigits {
 		public static void main(String[] args) {
 		        Scanner sc=new Scanner(System.in);
 		        System.out.println("ENTER A NUMBER:");
