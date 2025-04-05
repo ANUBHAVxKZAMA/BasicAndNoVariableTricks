@@ -24,3 +24,15 @@ This repo covers basic operations, focusing on logic rather than relying on shor
   Count how many digits are there in a number.
 
 ## How to Run
+
+1. **Download or clone the repository:**
+   - Click the green “Code” button on top
+   - Choose “Download ZIP”
+   - Extract the ZIP file on your system
+
+2. **Open terminal in that folder**  
+   (or Command Prompt if you're on Windows)
+
+3. **Compile the Java file:**
+   ```bash
+   javac FileName.java
