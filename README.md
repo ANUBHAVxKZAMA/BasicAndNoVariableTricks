@@ -1,1 +1,1 @@
-# CoreJavaPrograms
+# BASIC AND NO VARIABLE TRICKS 
