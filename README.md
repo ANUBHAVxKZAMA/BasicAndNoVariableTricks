@@ -8,11 +8,12 @@ This repo includes basic logic questions like swapping numbers, reversing digits
 
 ### Programs in this repo:
 
-- `swapWithoutThirdVariable.java`
-- `addWithoutThirdVariable.java`
-- `reverseNumber.java`
-- `sumOfDigits.java`
-- `countDigits.java`
+- `SwapWithoutThirdVariable.java`
+- `AddWithoutThirdVariable.java`
+- `ReverseNumber.java`
+- `SumOfDigits.java`
+- `CountDigits.java`
+- `PrintDigits.java`
 
 ## How to Run (Phone-Friendly Guide)
 
